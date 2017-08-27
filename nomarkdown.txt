@@ -1,8 +1,9 @@
-this is a test
-to see what happens
+# here is a file
 
-when a file isn't marked
+_made in markdown_
 
-in markdown.
+We'll see how it looks different  
+From the 'nomarkdown' file
 
-hooray.
+
+* Yay.

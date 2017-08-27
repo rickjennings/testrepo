@@ -1,9 +1,9 @@
-here is a file
+# here is a file
 
-made in markdown
-We'll see how it looks different
+_made in markdown_
 
+We'll see how it looks different  
 From the 'nomarkdown' file
 
 
-Yay.
+* Yay.
